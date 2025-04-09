@@ -1,18 +1,25 @@
 <script setup>
-import useOlMapStore from "@/stores/olMap.js";
 import { toFixed } from "ol/math.js";
 
-const mapStore = useOlMapStore();
+const isMapCreated = ref(false);
+const state = shallowReactive({
+  map: null,
+});
 
+provide("state", state);
+provide("isMapCreated", isMapCreated);
+
+//弹窗
 let title = ref("");
 let position = ref([]);
 let offset = ref([0, -10]);
 let propeties = ref([{ key: "coor", val: "坐标", unit: null }]);
 let popupInfo = ref({});
 
-onMounted(() => {
-  console.log("parent", "onMounted", mapStore.map);
-});
+function mapCreated(map) {
+  state.map = map;
+  isMapCreated.value = true;
+}
 
 function mapClick(evt) {
   title.value = "鼠标点击坐标";
@@ -29,6 +36,16 @@ function closePopup() {
 </script>
 
 <template>
-  <TdtMap @mapClick="mapClick" />
-  <Popup :title :position :offset :propeties :popupInfo @close="closePopup" />
+  <div class="oneMap">
+    <TdtMap @mapCreated="mapCreated" @mapClick="mapClick" />
+    <Popup :title :position :offset :propeties :popupInfo @close="closePopup" />
+  </div>
 </template>
+
+<style lang="scss" scoped>
+.oneMap {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
+</style>

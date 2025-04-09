@@ -6,7 +6,7 @@ import WMTSTileGrid from "ol/tilegrid/WMTS";
 
 export default class Tianditu {
   #baseUrl = "https://t{0-7}.tianditu.gov.cn/";
-  #tk = "75890d81e1df2d26c95eb742f5b49b0b";
+  #tk = "11c161d1558ad38a25a080da1ab26784";
   #sourceGroupType = {
     vec: ["vec", "cva"], // 矢量底图
     img: ["img", "cia"], // 影像底图

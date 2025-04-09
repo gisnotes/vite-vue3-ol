@@ -5,13 +5,12 @@ import { defaults as defaultInteractions } from "ol/interaction.js";
 import { unByKey } from "ol/Observable.js";
 
 import Tianditu from "@/utils/tdt.js";
-import useOlMapStore from "@/stores/olMap.js";
-import { onMounted } from "vue";
 
+let map;
 let mapDivRef = ref();
-let mapRef = shallowRef();
 let mapClickEvtKey = null;
-const emits = defineEmits(["mapClick"]);
+
+const emits = defineEmits(["mapCreated", "mapClick"]);
 
 const props = defineProps({
   defaultTdtLyrType: {
@@ -44,25 +43,26 @@ onMounted(() => {
 });
 
 function createMap() {
-  mapRef.value = new Map({
+  map = new Map({
     target: mapDivRef.value,
     layers: [vecLyrGrp, imgLyrGrp],
     view,
-    controls: [],//为空数组时，则将默认的控件全部关闭
+    controls: [], //为空数组时，则将默认的控件全部关闭
     interactions: defaultInteractions({ doubleClickZoom: false }), //关闭双击交互
   });
-  useOlMapStore().map = mapRef;
-  console.log("child", "onMounted",useOlMapStore().map);
+  emits("mapCreated", map);
 }
 
 function initMapEvt() {
-  mapClickEvtKey = mapRef.value.on("singleclick", (e) => {
+  mapClickEvtKey = map.on("singleclick", (e) => {
     emits("mapClick", e);
   });
 }
 
 onBeforeUnmount(() => {
   unByKey(mapClickEvtKey);
+  mapClickEvtKey = null;
+  map = null;
 });
 </script>
 

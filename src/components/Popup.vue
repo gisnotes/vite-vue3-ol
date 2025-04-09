@@ -1,9 +1,6 @@
 <script setup>
-import useOlMapStore from "@/stores/olMap.js";
 import Overlay from "ol/Overlay";
-import { onBeforeUnmount } from "vue";
-
-const mapStore = useOlMapStore();
+import { onMounted } from "vue";
 
 const props = defineProps({
   title: {
@@ -41,6 +38,9 @@ let popOverLay = null;
 let popup = ref();
 const emits = defineEmits(["close"]);
 
+const state = inject("state");
+const isMapCreated = inject("isMapCreated");
+
 const getAutoPan = computed(() => {
   return props.autoPan
     ? {
@@ -55,34 +55,30 @@ const getAutoPan = computed(() => {
 watch(
   () => props.position,
   (val) => {
-    popOverLay?.setPosition(val);
+    if (popOverLay) {
+      popOverLay.setPosition(val);
+    }
   },
   { deep: true }
 );
 
-watch(
-  () => props.offset,
-  (val) => {
-    popOverLay?.setOffset(val);
-  },
-  { deep: true }
-);
-
-onMounted(() => {
-  init();
+watch(isMapCreated, (isMapCreatedValue) => {
+  if (isMapCreatedValue) {
+    // console.log("🚀 | isMapCreatedValue:", isMapCreatedValue);
+    state.map.addOverlay(popOverLay);
+  }
 });
 
-function init() {
+onMounted(() => {
   popOverLay = new Overlay({
     element: popup.value,
     offset: props.offset,
     autoPan: getAutoPan,
     positioning: "bottom-center",
   });
-  console.log("sibling","onMounted");
-  console.log("popup", mapStore.map);
-  mapStore.map.addOverlay(popOverLay);
-}
+  popOverLay.setOffset(props.offset);
+  popOverLay.setPosition(undefined);
+});
 
 function close() {
   popOverLay.setPosition(undefined);
@@ -90,7 +86,7 @@ function close() {
 }
 
 onBeforeUnmount(() => {
-  popOverLay.setPosition(undefined);
+  popOverLay && popOverLay.setPosition(undefined);
 });
 </script>
 
