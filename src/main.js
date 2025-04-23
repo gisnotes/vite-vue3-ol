@@ -3,7 +3,7 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
-import "@/assets/index.scss"; //自定义样式
+import "@/assets/index.css"; //自定义样式
 
 const app = createApp(App)
 
