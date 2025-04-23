@@ -1,0 +1,29 @@
+.my_pulsing {
+  width: 15px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: #409eff;
+  box-shadow: 0 0 0 0 #409eff66;
+  animation: myPulsing 1.5s infinite linear;
+  position: absolute;
+  cursor: pointer;
+}
+.my_pulsing:before,
+.loader:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: 0 0 0 0 #409eff66;
+  animation: inherit;
+  animation-delay: -0.8s;
+}
+.my_pulsing:after {
+  animation-delay: -1.6s;
+}
+
+@keyframes myPulsing {
+  100% {
+    box-shadow: 0 0 0 15px #409eff00;
+  }
+}

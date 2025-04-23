@@ -7,12 +7,13 @@ const router = createRouter({
       path: "/",
       name: "home",
       meta: {
-        title: "利用三方库纠偏百度坐标测试",
+        title: "添加波纹效果的点要素",
       },
       // #region 已完成
       // component: () => import("../views/OneMap.vue"),
+      // component: () => import("../views/TestCoordinateOffset.vue"),
       // #endregion
-      component: () => import("../views/TestCoordinateOffset.vue"),
+      component: () => import("../views/TestPulsingEffect.vue"),
     },
   ],
 });

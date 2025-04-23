@@ -218,6 +218,7 @@ onBeforeUnmount(() => {
 }
 
 :deep(.el-descriptions__label.el-descriptions__cell) {
+  width: 50px !important;
   font-weight: bold;
   text-align: right;
 }
