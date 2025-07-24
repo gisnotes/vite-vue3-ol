@@ -31,10 +31,10 @@ const imgLyrGrp = TDT.createTileLayerGroup(
 );
 
 const view = new View({
-  center: [113.59, 34.78],
-  zoom: 10,
+  center: [0, 0],
+  zoom: 2,
   maxZoom: 28,
-  projection: "EPSG:4326",
+  // projection: "EPSG:4326",
 });
 
 onMounted(() => {

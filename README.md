@@ -1,29 +1,6 @@
-# vite-vue3-ol
+1. [测试百度坐标偏移](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/TestCoordinateOffset.vue)
+2. [添加波纹效果的点要素](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/TestPulsingEffect.vue)
 
-This template should help get you started developing with Vue 3 in Vite.
+## 官方示例
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. [高级视图定位](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/AdvancedViewPositioning.vue)

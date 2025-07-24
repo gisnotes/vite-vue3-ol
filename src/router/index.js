@@ -7,13 +7,19 @@ const router = createRouter({
       path: "/",
       name: "home",
       meta: {
-        title: "添加波纹效果的点要素",
+        // #region 已完成
+        // title: "一张图",
+        // title: "测试百度坐标偏移",
+        // title: "添加波纹效果的点要素",
+        // #endregion
+        title: "高级视图定位",
       },
       // #region 已完成
-      // component: () => import("../views/OneMap.vue"),
-      // component: () => import("../views/TestCoordinateOffset.vue"),
+      // component: () => import("@/views/OneMap.vue"),
+      // component: () => import("@/views/TestCoordinateOffset.vue"),
+      // component: () => import("@/views/TestPulsingEffect.vue"),
       // #endregion
-      component: () => import("../views/TestPulsingEffect.vue"),
+      component: () => import("@/views/AdvancedViewPositioning.vue"),
     },
   ],
 });

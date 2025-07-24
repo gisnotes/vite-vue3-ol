@@ -15,7 +15,7 @@ export default defineConfig({
   server: {
     host: true,
     port: 8088,
-    open: true,
+    // open: true,
   },
   plugins: [
     vue(),
