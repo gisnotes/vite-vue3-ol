@@ -4,3 +4,4 @@
 ## 官方示例
 
 1. [高级视图定位](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/AdvancedViewPositioning.vue)
+2. [动态gif](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/AnimatedGif.vue)

@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "main": "gifler.min.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +14,7 @@
     "coordtransform": "^2.1.2",
     "element-plus": "^2.9.7",
     "gcoord": "^1.0.7",
+    "gifler": "^0.1.0",
     "ol": "^10.6.1",
     "pinia": "^2.3.1",
     "vue": "^3.5.13",
