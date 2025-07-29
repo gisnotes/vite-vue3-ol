@@ -12,16 +12,18 @@ const router = createRouter({
         // title: "测试百度坐标偏移",
         // title: "添加波纹效果的点要素",
         // title: "高级视图定位",
+        // title: "动态gif",
         // #endregion
-        title: "动态gif",
+        title: "动态聚类",
       },
       // #region 已完成
       // component: () => import("@/views/OneMap.vue"),
       // component: () => import("@/views/TestCoordinateOffset.vue"),
       // component: () => import("@/views/TestPulsingEffect.vue"),
       // component: () => import("@/views/AdvancedViewPositioning.vue"),
+      // component: () => import("@/views/AnimatedGif.vue"),
       // #endregion
-      component: () => import("@/views/AnimatedGif.vue"),
+      component: () => import("@/views/DynamicClusters.vue"),
     },
   ],
 });
