@@ -1,0 +1,1312 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 100,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.239773,40.071270]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京四维图新科技股份有限公司",
+        "Rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.631191,40.054593]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中科星图股份有限公司",
+        "Rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.178446,31.159687]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "上海华测导航技术股份有限公司",
+        "Rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.416973,23.181709]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "广州南方测绘科技股份有限公司",
+        "Rank": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.040049,22.509474]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "深圳市智慧城市科技发展集团有限公司",
+        "Rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.408453,39.989019]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京城建勘测设计研究院有限责任公司",
+        "Rank": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.229280,39.952845]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "航天宏图信息技术股份有限公司",
+        "Rank": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id定向": "top100.enterprise.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.285062,40.050527]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京百度网讯科技有限公司",
+        "Rank": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.499988,39.984437]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京超图软件股份有限公司",
+        "Rank": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.367691,22.983364]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "广州中海达卫星导航技术股份有限公司",
+        "Rank": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.566779,39.786986]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京合众思壮科技股份有限公司",
+        "Rank": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.231802,40.074655]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京辰安科技股份有限公司",
+        "Rank": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.457582,40.131124]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "国网电力空间技术有限公司",
+        "Rank": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.276184,23.137544]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "广州市城市规划勘测设计研究院有限公司",
+        "Rank": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.458696,40.131066]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "国网思极位置服务有限公司",
+        "Rank": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.354232,39.877087]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中国地图出版社集团有限公司",
+        "Rank": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.394883,43.979313]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "长光卫星技术股份有限公司",
+        "Rank": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.532014,39.806074]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "苍穹数码技术股份有限公司",
+        "Rank": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.638782,40.055212]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中色蓝图科技股份有限公司",
+        "Rank": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.291942,40.043354]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京数字政通科技股份有限公司",
+        "Rank": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.372681,39.960025]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京恒华伟业科技股份有限公司",
+        "Rank": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.241168,39.051858]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中水北方勘测设计研究有限责任公司",
+        "Rank": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.734564,31.991076]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "南京市测绘勘察研究院股份有限公司",
+        "Rank": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.633527,40.052043]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "正元地理信息集团股份有限公司",
+        "Rank": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.999905,29.150347]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "浙江华东测绘与工程安全技术有限公司",
+        "Rank": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.314230,39.899858]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京市勘察设计研究院有限公司",
+        "Rank": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.343397,23.168969]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "广东国地科技股份有限公司",
+        "Rank": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.371606,39.991528]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京国遥新天地信息技术股份有限公司",
+        "Rank": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.065417,22.546376]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "深圳市勘察研究院有限公司",
+        "Rank": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.368517,36.103902]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "青岛市勘察测绘研究院",
+        "Rank": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.882136,22.551658]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "丰图科技（深圳）有限公司",
+        "Rank": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.476511,41.694305]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "沈阳美行科技股份有限公司",
+        "Rank": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.393255,30.634003]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中冶武勘工程技术有限公司",
+        "Rank": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.179049,39.060950]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "天津市测绘院有限公司",
+        "Rank": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.209990,26.048345]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "福州市勘测院有限公司",
+        "Rank": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.449528,39.922835]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "环天智慧科技股份有限公司",
+        "Rank": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.525106,31.335369]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "上海勘察设计研究院（集团）股份有限公司",
+        "Rank": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.122162,36.662478]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "浪潮软件科技有限公司",
+        "Rank": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.177302,31.821256]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "安徽继远软件有限公司",
+        "Rank": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.728923,31.339595]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "园测信息科技股份有限公司",
+        "Rank": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.090443,22.550617]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "深圳市勘察测绘院（集团）有限公司",
+        "Rank": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.590023,38.896127]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "大连市勘察测绘研究院集团有限公司",
+        "Rank": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.116438,30.281103]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "浙江臻善科技股份有限公司",
+        "Rank": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.340344,39.937230]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京洛斯达科技发展有限公司",
+        "Rank": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.212968,39.905352]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京吉威空间信息股份有限公司",
+        "Rank": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.482034,41.692793]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "辽宁宏图创展测绘勘察有限公司",
+        "Rank": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.288177,30.624228]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "长江空间信息技术工程有限公司（武汉）",
+        "Rank": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.355982,39.966945]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "星球地图出版社",
+        "Rank": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.543699,39.913742]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中国电建集团北京勘测设计研究院有限公司",
+        "Rank": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.003017,39.493297]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中国水利水电第四工程局有限公司",
+        "Rank": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.302768,39.980487]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京龙软科技股份有限公司",
+        "Rank": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.290538,40.050480]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京天耀宏图科技股份有限公司",
+        "Rank": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.418016,41.755026]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "沈阳市勘察测绘研究院有限公司",
+        "Rank": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.142298,39.094593]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "天津市勘察设计院集团有限公司",
+        "Rank": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.568641,31.290763]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "上海达华测绘科技有限公司",
+        "Rank": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.972641,28.114934]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "创辉达设计股份有限公司",
+        "Rank": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.990393,28.679321]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "三和数码测绘地理信息技术有限公司",
+        "Rank": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.704311,31.993324]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中国电建集团中南勘测设计研究院有限公司",
+        "Rank": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.482341,38.890108]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "河北九华勘查测绘有限责任公司",
+        "Rank": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.472118,40.114109]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京帝测科技股份有限公司",
+        "Rank": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.436480,37.465172]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "海天地信科技有限公司",
+        "Rank": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.406573,23.174726]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "奥格科技股份有限公司",
+        "Rank": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.547138,38.043764]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "河北省地理信息集团有限公司",
+        "Rank": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.379007,22.545122]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中佳勘察设计有限公司",
+        "Rank": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.346306,39.940198]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京世纪国源科技股份有限公司",
+        "Rank": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.142049,36.663578]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "济南市勘察测绘研究院",
+        "Rank": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.892204,34.777980]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "河南省中工设计研究院集团股份有限公司",
+        "Rank": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.109929,30.280018]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "杭州市勘测设计研究院有限公司",
+        "Rank": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.435943,39.095480]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "天津飞马机器人科技有限公司",
+        "Rank": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.656310,25.076716]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "云南云金地科技有限公司",
+        "Rank": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.290115,40.050325]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京数字绿土科技股份有限公司",
+        "Rank": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.401547,30.466709]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "武汉中地数码科技有限公司",
+        "Rank": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.724502,25.039820]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "云南省地矿测绘院有限公司",
+        "Rank": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.398867,30.465925]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "武汉地大信息工程股份有限公司",
+        "Rank": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.185319,31.805310]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "安徽同绘家园土地信息技术有限公司",
+        "Rank": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.129386,22.684272]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "深圳市爱华勘测工程有限公司",
+        "Rank": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.281860,31.184849]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "上海普适导航科技股份有限公司",
+        "Rank": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.597654,31.254992]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "上海山南勘测设计有限公司",
+        "Rank": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.357934,22.807644]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "南宁市自然资源信息集团有限公司",
+        "Rank": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.000190,32.568095]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "安徽图联科技有限公司",
+        "Rank": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.916521,32.083671]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "江苏兰德数码科技有限公司",
+        "Rank": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.672270,34.787362]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中核勘察设计研究有限公司",
+        "Rank": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.538140,30.483588]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "武汉光谷信息技术股份有限公司",
+        "Rank": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.401992,23.131025]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "中管通地下管线技术（广东）有限公司",
+        "Rank": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.462318,32.438907]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "江苏省工程勘测研究院有限责任公司",
+        "Rank": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.388204,34.619251]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "众智软件股份有限公司",
+        "Rank": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.304252,39.958819]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京航天世景信息技术有限公司",
+        "Rank": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2806, 23.1252]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "方宇勘测有限公司",
+        "Rank": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.076891,30.685528]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "成都市勘察测绘研究院",
+        "Rank": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.624574,31.299491]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "苏州市测绘院有限责任公司",
+        "Rank": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.958499,34.234043]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "陕西天润科技股份有限公司",
+        "Rank": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.160419,36.937482]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "山东正维勘察测绘有限公司",
+        "Rank": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.730560,32.011700]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "南京博地源空间信息科技集团有限公司",
+        "Rank": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.468063,23.164382]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "广州中科云图智能科技有限公司",
+        "Rank": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.794032,34.289695]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "陕西四维数邦科技有限公司",
+        "Rank": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.288819,39.819866]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "北京新兴华安智慧科技有限公司",
+        "Rank": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.116168,31.822053]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "合肥市方升信息科技有限公司",
+        "Rank": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.427458,39.958714]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "易智瑞信息技术有限公司",
+        "Rank": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.202680,35.247530]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "河南省中纬测绘规划信息工程有限公司",
+        "Rank": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "top100.enterprise.100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.315566,30.547486]
+      },
+      "geometry_name": "SHAPE",
+      "properties": {
+        "Name": "武汉中交工程勘察有限公司",
+        "Rank": 100
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG:4326"
+    }
+  }
+}

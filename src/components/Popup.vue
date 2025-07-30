@@ -56,6 +56,7 @@ watch(
   () => props.position,
   (val) => {
     if (popOverLay) {
+      popOverLay.setOffset(props.offset);
       popOverLay.setPosition(val);
     }
   },
@@ -103,7 +104,7 @@ onBeforeUnmount(() => {
     <div class="popup-content">
       <el-descriptions class="margin-top" :column="1" :size="'small'" border>
         <el-descriptions-item
-          width="25px"
+          label-width="70px"
           v-for="prop in propeties"
           :key="prop.val"
           :label="prop.val">
@@ -121,7 +122,7 @@ onBeforeUnmount(() => {
 <style lang="scss" scoped>
 .popup {
   position: absolute;
-  width: 240px;
+  width: 280px;
   background-color: white;
   box-shadow: 0 2px 4px 0 rgba(100, 100, 100, 0.12),
     0 0 6px 0 rgba(100, 100, 100, 0.6);
@@ -218,7 +219,6 @@ onBeforeUnmount(() => {
 }
 
 :deep(.el-descriptions__label.el-descriptions__cell) {
-  width: 50px !important;
   font-weight: bold;
   text-align: right;
 }

@@ -34,7 +34,7 @@ const view = new View({
   center: [0, 0],
   zoom: 2,
   maxZoom: 28,
-  // projection: "EPSG:4326",
+  projection: "EPSG:4326",
 });
 
 onMounted(() => {

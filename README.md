@@ -1,5 +1,6 @@
 1. [测试百度坐标偏移](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/TestCoordinateOffset.vue)
 2. [添加波纹效果的点要素](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/TestPulsingEffect.vue)
+3. [2025地理信息产业百强企业](https://github.com/gisnotes/vite-vue3-ol/blob/main/src/views/Top100GISEnt.vue)
 
 ## 官方示例
 
