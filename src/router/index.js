@@ -15,7 +15,7 @@ const router = createRouter({
         // title: "动态gif",
         // title: "动态聚类",
         // #endregion
-        title: "2025地理信息产业百强企业",
+        title: "用WebGL绘制线条",
       },
       // #region 已完成
       // component: () => import("@/views/OneMap.vue"),
@@ -25,7 +25,7 @@ const router = createRouter({
       // component: () => import("@/views/AnimatedGif.vue"),
       // component: () => import("@/views/DynamicClusters.vue"),
       // #endregion
-      component: () => import("@/views/Top100GISEnt.vue"),
+      component: () => import("@/views/draw/DrawLineWithWebgl.vue"),
     },
   ],
 });
